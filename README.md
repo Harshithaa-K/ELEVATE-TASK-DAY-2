@@ -89,6 +89,7 @@ pipeline {
 
 Step 4 :
 Run the Jenkins Pipeline
+<img width="1360" height="726" alt="dockerhub-python" src="https://github.com/user-attachments/assets/96295655-58ae-4755-8bc3-4570bab08a17" />
 Clicked Build Now
 Jenkins will Clone the repo , Build Docker image , Push to DockerHub , Deploy container locally.
 Build logs attached in the repository.
@@ -96,8 +97,8 @@ Build logs attached in the repository.
 Step 5 :
 Accessed the App in Browser using http://<public_ip>:5000
 
+<img width="1362" height="717" alt="output-image" src="https://github.com/user-attachments/assets/2e44acbd-e5aa-405f-814b-7d611e1c520f" />
 
-<img width="1366" height="768" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/793dca07-764c-455a-84a6-53cd99cda903" />
 
 
 

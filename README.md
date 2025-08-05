@@ -7,6 +7,11 @@ Create a Simple Jenkins Pipeline for CI/CD
 
 Steps followed :
 
+Initial step :
+
+Launched ubuntu ec2 instance and added 8080 and 5000 in inbound rules of security group.
+Installed docker and jenkins in the same server.
+
 Step1 : Clone the Repository
 git clone https://github.com/Harshithaa-K/ELEVATE-TASK-DAY-2.git
 cd ELEVATE-TASK-DAY-2

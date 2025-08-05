@@ -1,3 +1,4 @@
+<img width="1362" height="717" alt="output-image" src="https://github.com/user-attachments/assets/7eeea8e8-38ae-449a-bad9-e7ef83555923" />
 python flask app
 This project implements Jenkins CI/CD for a python based application
 
@@ -85,9 +86,10 @@ Step 4 :
 Run the Jenkins Pipeline
 Clicked Build Now
 Jenkins will Clone the repo , Build Docker image , Push to DockerHub , Deploy container locally.
+Build logs attached in the repository.
 
 Step 5 :
-Access the App in Browser suing http://<public_ip>:5000
+Accessed the App in Browser using http://<public_ip>:5000
 
 
 <img width="1366" height="768" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/793dca07-764c-455a-84a6-53cd99cda903" />
